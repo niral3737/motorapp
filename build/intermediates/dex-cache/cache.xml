@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9f6121d23171284ff5a42c65a4f6c515c6909978\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.6.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5a96d555777552701e4dbd0d0c40c2436cb6f1c">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-iconics-core-2.6.0_42cac83b09818fe834abf137e4743435082ddcd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_7f5e8490eb3caa6dbeab228c5fefacf38f1e2b9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.2.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b79a47d630c8d05df7a2bb38f6a7e2fc3f4fdb37">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialdrawer-5.2.8_2eddc55efbb5e437d5687655a1829ee0343d4470\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ce947021494fdbd07d22ad45282322d2f998f6d9">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0104aca8a505217e40b03aa785619bc5558fdb4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.8.8\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="197c431b8fc427f77e02997e299bd6b9bef58ede">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialize-0.8.8_a56fdb556ffd8249289c945e69ee56b820cc080c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_09ffd0b3718c77186c3f65a25bf2eb0749c4e935\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_a98d54cb249ef76d79b7158effd8b5b5a6f467ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9fca0189949460fcfeb4dbf3e6bc24a35d242891\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_b8eb28bedbced05aff1f6d5ba8bd5ee959c798b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a1060e7bedbd2e291883f89d2925fdb71bed155b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c378b76ea2b4e65d5a71ec72c095ccf98a5db933\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e7d549a0996232343db5eb9da038f7d296023c3">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8f1fb3886c839b04c563419c1dd2ddf73b9a9890\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.5.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ab56b2bdb734c6442014eb30048d54221ba3698b">
+        <dex dex="C:\Users\Niral\AndroidStudioProjects\MotorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-fastadapter-1.5.2_598628fcd0601d6f29cd7575486beb23a07ea8f6\classes.dex" />
+    </item>
+
+</items>
